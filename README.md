@@ -1,4 +1,4 @@
-<img width="500" alt="Moha Logiciels Banner" src="https://github.com/user-attachments/assets/04c839c7-698e-488f-8afa-c74203d98fa0" />
+<img width="200" alt="Moha Logiciels Banner" src="https://github.com/user-attachments/assets/04c839c7-698e-488f-8afa-c74203d98fa0" />
 
 ## Hi there <img width="35" alt="Waving emoji gif" src="https://github.com/user-attachments/assets/8993e63a-35ff-4b15-9537-d8be060c1d40" />
 
