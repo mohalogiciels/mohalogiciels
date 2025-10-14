@@ -5,11 +5,11 @@
 ## Hi there <img width="35" alt="Waving emoji gif" src="https://github.com/user-attachments/assets/8993e63a-35ff-4b15-9537-d8be060c1d40" />
 
 I’m a completely self-taught software developer, developing for legacy Windows operating systems like **Windows 7** and **Windows 8.1**, which are by the way my favourite systems and, in my opinion, the best operating systems ever released.
-I generally develop in **Visual Basic .NET**, an easy to learn but also powerful coding language. My mostly used IDE for that is **Visual Studio 2012**, which works nicely and flawlessly on my system running Windows 8.1.
+I generally develop in **Visual Basic .NET**, an easy to learn but also powerful programming language. My mostly used IDE for that is **Visual Studio 2012**, which works nicely and flawlessly on my system running Windows 8.1.
 
 Just want to say that I really love $${\color{blue}Windows}$$ in general! It’s very close to being perfect, Windows is easy to use but also powerful at the same time.
 
-### Coding languages I learned
+### Programming languages I learned
 * <img width="20" alt="NetFramework" src="https://github.com/user-attachments/assets/9bbf86c7-63ce-4c1c-9b63-c31b946a6cb2" /> Visual Basic .NET
 * <img width="20" alt="XHTML file" src="https://github.com/user-attachments/assets/7c00d142-5bb8-43f7-88fb-d650d851aa36" /> (X)HTML *especially XHTML 1.0 and 1.1*
 * <img width="20" alt="CSS3" src="https://github.com/user-attachments/assets/29981d87-54fc-434b-8f00-6ba4735e6e0c" /> CSS
