@@ -12,3 +12,4 @@ Just want to say that I really love <img width="70" alt="Windows" src="https://g
 
 ### My website
 Please check out my website by clicking [here](https://mohalogiciels.runasp.net/). You will hopefully like it! :smile:
+You will find most information now on my website instead of here.
