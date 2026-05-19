@@ -10,7 +10,9 @@ Generally developing in **Visual Basic .NET**, an easy to learn but also powerfu
 
 Just want to say that I really love <img width="70" alt="Windows" src="https://github.com/user-attachments/assets/cfbad1d6-a405-41c3-aaee-127c8c8f357d" /> in general! It’s very close to being perfect: easy to use but also powerful at the same time.
 
-### My website
-Please check out my website by clicking [here](https://mohalogiciels.runasp.net/). You will hopefully like it! :smile:
+## <img width="24" height="24" alt="Logo Website" src="https://github.com/user-attachments/assets/f8bb98d0-beec-422c-9059-abc34756c952" /> My website <img width="24" height="24" alt="Logo Website" src="https://github.com/user-attachments/assets/f8bb98d0-beec-422c-9059-abc34756c952" />
+Please check out my website by clicking [**here**](https://mohalogiciels.runasp.net/). You will hopefully like it! :smile:
 
-You will find most information now on my website, instead of here.
+You will find information about me, other programs and scripts, as well as about Moha Logiciels on my website.
+
+**Have fun surfing through my website!**
