@@ -15,4 +15,4 @@ Please check out my website by clicking [**here**](https://mohalogiciels.runasp.
 
 You will find information about me, other programs and scripts, as well as about Moha Logiciels on my website.
 
-**Have fun surfing through my website!**
+**Have fun!**
