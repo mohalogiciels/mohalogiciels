@@ -4,9 +4,9 @@
 
 ## Hi there <img width="35" alt="Waving emoji gif" src="https://github.com/user-attachments/assets/8993e63a-35ff-4b15-9537-d8be060c1d40" />
 
-I’m a completely self-taught software developer that develops mostly for legacy Windows operating systems like **Windows 7** and **Windows 8.1**, which are by the way my favourite systems and, in my opinion, the best operating systems ever released.
+My name is Mohammed. I am a completely **self-taught** .NET software developer that develops mostly for legacy Windows operating systems like **Windows 7** and **Windows 8.1**, as well as a full-stack web developer using ASP.NET for back-end web development – known for <a href="https://mohalogiciels.runasp.net/Downloads/PictureBoxJS">PictureBoxJS</a>, a JavaScript picture and video viewer for your websites.
 
-Generally developing in **Visual Basic .NET**, an easy to learn but also powerful programming language. My mostly used IDE for that is **Visual Studio 2013**, which works nicely and flawlessly on my system running Windows 8.1.
+Windows software development, as well as back-end web development is generally done in **Visual Basic .NET**, an easy-to-learn and powerful programming language. My mostly used IDE for that is **Visual Studio 2013**, working nicely and flawlessly on my **main system running Windows 8.1**.
 
 Just want to say that I really love <img width="70" alt="Windows" src="https://github.com/user-attachments/assets/cfbad1d6-a405-41c3-aaee-127c8c8f357d" /> in general! It’s very close to being perfect: easy to use but also powerful at the same time.
 
