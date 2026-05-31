@@ -6,7 +6,7 @@
 
 My name is Mohammed. I am a completely **self-taught** .NET software developer who develops mostly for legacy Windows operating systems like **Windows 7** and **Windows 8.1**, as well as a full-stack web developer using ASP.NET for back-end web development.
 
-I am also known for <a href="https://mohalogiciels.runasp.net/Downloads/PictureBoxJS">**PictureBoxJS**</a> – a JavaScript picture and video viewer for your website.
+I am also known for <a href="https://mohalogiciels.runasp.net/Downloads/PictureBoxJS/">**PictureBoxJS**</a> – a JavaScript picture and video viewer for your website.
 
 ### About me
 
